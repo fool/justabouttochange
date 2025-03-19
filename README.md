@@ -1,4 +1,4 @@
-This account is called `fool` but it is not the person who used to be `fool`.  You can find that person at a new handle:
+This account is called `fool` but it is not the person who used to be `fool`.  You can find that person at a new handle: [nolessafool](https://github.com/nolessafool)
 
 <!---
 justabouttochange/justabouttochange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
